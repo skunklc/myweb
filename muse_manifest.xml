@@ -1,0 +1,20 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="5467645.com" resolutions="1x" timestamp="1500450484627">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-master.css" crc="291867304" ref="untitled-2:index"/>
+    <file name="untitled-2.css" crc="3938638189" ref="untitled-2"/>
+    <file name="index.css" crc="13075813" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2"/>
+    <file name="museutils.js" crc="4216313831" ref="index:untitled-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-2"/>
+    <file name="museconfig.js" crc="474374037" ref="index:untitled-2"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:untitled-2"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:untitled-2"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:untitled-2"/>
+    <file name="require.js" crc="3951022091" ref="index:untitled-2"/>
+  </folder>
+  <file name="index.html" crc="4246997152" seo="true" mt="1500449904267" redirect="true"/>
+  <file name="untitled-2.html" crc="106543823" seo="true" mt="1500449904267" redirect="true"/>
+</manifest>
